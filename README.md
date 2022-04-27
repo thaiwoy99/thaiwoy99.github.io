@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/thaiwoy99/thaiwoy99.github.io.git)
-- Live Site URL: [Add live site URL here](www.github.com)
+- Solution URL: https://github.com/thaiwoy99/thaiwoy99.github.io.git
+- Live Site URL: https://singleprice-grid-component.netlify.app/
 
 
 
